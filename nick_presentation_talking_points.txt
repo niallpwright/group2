@@ -1,0 +1,17 @@
+Presentation Talking Points
+
+•	I decided to choose 4 sports entertainment type stocks for my part of the analysis.
+1.	WWE – They are pretty well known wrestling league/company.  I selected them because I thought it would be interesting to track their performance throughout the pandemic since they rely heavily on live entertainment.
+2.	NKE – Another recognizable sportswear company.  With a lot of people staying home throughout Covid, exercise equipment saw a large increase in sales.  I wanted to see if there was any correlation there with Nike. 
+3.	DKNG – Draftkings was an interesting pick for this project.  They are an up and coming sports gambling company.  Their IPO was in April 2020 – right at the beginning of the country shut down.  
+4.	FUBO – Fubo TV is a streaming platform with a focus on live sports.  They also had an IPO during the pandemic, so it was another good example to see how sports viewing companies were affected.
+
+•	Findings:
+o	Basically we had 3 main questions we wanted to answer.
+	1) How did sports related stock perform before the pandemic started and did they see a recovery after the initial total market drop back in March 2020.
+	2) How did our portfolio perform compared to the S&P 500 (SPY).  Would you be better off staying with a total market fund?  Or investing in the sports industry recovery with a potential for higher gains?
+	3) Run a prediction for 5 years down the line.  Are sports stocks still a great long term investment using data from the Covid-19 Pandemic?  
+
+1)	Nick’s Portfolio:  Out of the 4 stocks I chose - 3 saw positive returns and all 3 of those stocks outperformed the S&P 500 over our chosen timeline.   Those stocks are Draftkings, Fubo & Nike.   I also won the award for being the only one who chose a negatively performing stock in WWE.  It would appear that losing out on all live sporting events due to Covid greatly affected WWE and it still needs time for a full recovery.  
+2)	As for the 3 stocks that outperformed the S&P 500 in my portfolio Nike stands as the best performing stock.  Both Fubo & Draftkings had higher total gains but looking at our graphs and data it shows they are at a much higher risk of potential loss.  Their prices since IPO have fluctuated greatly and there is not enough past data to give any sort of indicator on what the future holds.  
+3)	Nike outperformed the S&P 500 by almost 20% through Covid.  They have shown growth over the last few years and are one of the largest companies in their industry.  Looking at the data of the stock performance, before, during and after the Covid-19 pandemic it shows that Nike would be a solid potential investment for anyone interested in sports related stocks.  
